@@ -1,0 +1,9 @@
+{
+    "name":"Cruiser_Tunes_Reggaeton",
+    "version_number":"1.0.0",
+    "description":"A pack with music to cruiser in Lethal Company",
+    "website_url":"https://github.com/ElMapuchito/CruiserTunes_Reggaeton",
+    "dependencies": [
+        "Mellowdy-CruiserTunes-1.3.0"
+    ]
+}
